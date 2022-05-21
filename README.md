@@ -9,5 +9,5 @@ This tutorial is an updated version of a (revised version of a) survey paper (to
 https://arxiv.org/pdf/2104.08570.pdf
 
 
-Slides are available at [https://tinyurl.com/multitodslides]
+Slides are available at https://tinyurl.com/multitodslides
 
